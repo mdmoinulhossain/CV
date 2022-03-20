@@ -3,9 +3,9 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <section className="cvBody">
       <h1>This is Moinul</h1>
-    </div>
+    </section>
   );
 }
 
