@@ -1,11 +1,9 @@
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+.head-section {
+  display: flex;
+  justify-content: space-between;
 }
-html{
-
-}
-body{
-  
+.myImg {
+  width: 150px;
+  height: auto;
+  object-fit: cover;
 }
