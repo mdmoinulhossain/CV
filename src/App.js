@@ -116,6 +116,9 @@ function App() {
           </aside>
         </div>
       </section>
+      <div className="page_break">
+        <hr />
+      </div>
       <section className="section-secound_page">
         <div className="info">
           <aside className="info-left">
@@ -126,22 +129,26 @@ function App() {
             <ol>
               <li>
                 Konna(she for she):
-                <p>
+                <br />
+                <span>
                   Making a website about women health using popular php
                   framework codeIgniter.
-                </p>
+                </span>
               </li>
               <li>
                 Shokhbari:
-                <p>Making an e-commerce website, using MERN STACK.</p>
+                <br />
+                <span>Making an e-commerce website, using MERN STACK.</span>
               </li>
               <li>
                 Indo-Italiano:
-                <p>
+                <br />
+                <span>
                   It's a restaurant base website in Denmark. Made by WordPress
                   woo commerce.
-                </p>
+                </span>
               </li>
+              <br />
               <span>
                 And Many More....Look into my GITHUB:
                 <a href="https://github.com/mdmoinulhossain">
@@ -161,6 +168,8 @@ function App() {
               <b> Address:</b>
               Mohammadpur, Dhaka.
             </span>
+            <br />
+            <br />
             <span className="info_headline">
               <h3>References</h3>
               <i class="bi bi-person-check-fill"></i>
@@ -180,28 +189,36 @@ function App() {
             </span>
             <ul>
               <li>
-                <b>Digital Marketing. (2021)</b>
-                <br />
-                Digital Marketing course from Learning and earning development
-                project under ICT Division of Bangladesh.
+                <p>
+                  <b>Digital Marketing. (2021)</b>
+                  <br />
+                  Digital Marketing course from Learning and earning development
+                  project under ICT Division of Bangladesh.
+                </p>
               </li>
               <li>
-                <b>Web Development. (2019-2020)</b>
-                <br />
-                Web Application Development with PHP and Frameworks from
-                IsDB-BISEW IT Scholarship Program.
+                <p>
+                  <b>Web Development. (2019-2020)</b>
+                  <br />
+                  Web Application Development with PHP and Frameworks from
+                  IsDB-BISEW IT Scholarship Program.
+                </p>
               </li>
               <li>
-                <b>Graphic Design. (2018)</b>
-                <br />
-                Graphic Design course from Dimension IT and software.
+                <p>
+                  <b>Graphic Design. (2018)</b>
+                  <br />
+                  Graphic Design course from Dimension IT and software.
+                </p>
               </li>
               <li>
-                <b>Diploma in Computer Science. (2017-2018)</b>
-                <br />
-                Diploma in Computer Science and Technology (Basic hardware,
-                software and Adobe Photoshop) from National Institute of
-                Technology.
+                <p>
+                  <b>Diploma in Computer Science. (2017-2018)</b>
+                  <br />
+                  Diploma in Computer Science and Technology (Basic hardware,
+                  software and Adobe Photoshop) from National Institute of
+                  Technology.
+                </p>
               </li>
             </ul>
             <span className="info_headline">
@@ -210,28 +227,36 @@ function App() {
             </span>
             <ul>
               <li>
-                <b>Masters of Business Administration</b>
-                <br />
-                Finance and Banking | CGPA- 3.53 out of 4.00 | 2017-2018
-                National University of Bangladesh.
+                <p>
+                  <b>Masters of Business Administration</b>
+                  <br />
+                  Finance and Banking | CGPA- 3.53 out of 4.00 | 2017-2018
+                  National University of Bangladesh.
+                </p>
               </li>
               <li>
-                <b>Bachelor of Business Administration</b>
-                <br />
-                Finance and Banking | CGPA-3.38 out of 4.00 | 2013-2017 National
-                University of Bangladesh.
+                <p>
+                  <b>Bachelor of Business Administration</b>
+                  <br />
+                  Finance and Banking | CGPA-3.38 out of 4.00 | 2013-2017
+                  National University of Bangladesh.
+                </p>
               </li>
               <li>
-                <b>Higher School Certificate </b>
-                <br />
-                Business Studies | GPA- 3.70 out of 5.00 | 2011-2013 Govt.
-                Science College.
+                <p>
+                  <b>Higher School Certificate </b>
+                  <br />
+                  Business Studies | GPA- 3.70 out of 5.00 | 2011-2013 Govt.
+                  Science College.
+                </p>
               </li>
               <li>
-                <b>Secondary School Certificate</b>
-                <br />
-                Science | GPA- 4.56 out of 5.00 | 2001-2011 Mohammadpur Govt.
-                High School.
+                <p>
+                  <b>Secondary School Certificate</b>
+                  <br />
+                  Science | GPA- 4.56 out of 5.00 | 2001-2011 Mohammadpur Govt.
+                  High School.
+                </p>
               </li>
             </ul>
           </aside>
